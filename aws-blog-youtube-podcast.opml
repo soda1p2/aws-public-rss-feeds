@@ -23,7 +23,7 @@
             <outline type="rss" text="AWS for Industrie" title="AWS for Industrie" htmlUrl="https://aws.amazon.com/blogs/industries/" xmlUrl="https://aws.amazon.com/blogs/industries/feed"/>
             <outline type="rss" text="The Internet of Things on AWS – Official Blog" title="The Internet of Things on AWS – Official Blog" htmlUrl="https://aws.amazon.com/blogs/iot/" xmlUrl="https://aws.amazon.com/blogs/iot/feed" />
             <outline type="rss" text="AWS Machine Learning Blog" title="AWS Machine Learning Blog" htmlUrl="https://aws.amazon.com/blogs/machine-learning/" xmlUrl="https://aws.amazon.com/blogs/machine-learning/feed" />
-            <outline type="rss" text="AWS Management &amp; Governance Blog" title="AWS Management &amp; Governance Blog" htmlUrl="https://aws.amazon.com/blogs/mt/" xmlUrl="https://aws.amazon.com/blogs/mt/feed" />
+            <outline type="rss" text="AWS Cloud Operations Blog" title="AWS Cloud Operations Blog" htmlUrl="https://aws.amazon.com/blogs/mt/" xmlUrl="https://aws.amazon.com/blogs/mt/feed" />
             <outline type="rss" text="AWS Media Blog" title="AWS Media Blog" htmlUrl="https://aws.amazon.com/blogs/media/" xmlUrl="https://aws.amazon.com/blogs/media/feed" />
             <outline type="rss" text="AWS Messaging &amp; Targeting Blog" title="AWS Messaging &amp; Targeting Blog" htmlUrl="https://aws.amazon.com/blogs/messaging-and-targeting/" xmlUrl="https://aws.amazon.com/blogs/messaging-and-targeting/feed" />
 
@@ -39,6 +39,17 @@
             <outline type="rss" text="AWS Startups Blog" title="AWS Startups Blog" htmlUrl="https://aws.amazon.com/blogs/startups/" xmlUrl="https://aws.amazon.com/blogs/startups/feed" />
             <outline type="rss" text="AWS Japan Blog" title="AWS Japan Blog" htmlUrl="https://aws.amazon.com/jp/blogs/news/" xmlUrl="https://aws.amazon.com/jp/blogs/news/feed" />
             <outline type="rss" text="AWS Training and Certification Blog" title="AWS Training and Certification Blog" htmlUrl="https://aws.amazon.com/blogs/training-and-certification/" xmlUrl="https://aws.amazon.com/blogs/training-and-certification/feed"/>
+            <outline type="rss" text="AWS Insights Blog" title="AWS Training and Certification Blog" htmlUrl="https://aws.amazon.com/blogs/aws-insights/" xmlUrl="https://aws.amazon.com/blogs/aws-insights/feed"/>
+            <outline type="rss" text="AWS Smart Business Blog" title="AWS Smart Business Blog" htmlUrl="https://aws.amazon.com/blogs/smb/" xmlUrl="https://aws.amazon.com/blogs/smb/feed"/>
+            <outline type="rss" text="AWS Business Intelligence Blog" title="AWS Business Intelligence Blog" htmlUrl="https://aws.amazon.com/blogs/business-intelligence/" xmlUrl="https://aws.amazon.com/blogs/business-intelligence/feed"/>
+            <outline type="rss" text="AWS Cloud Financial Management" title="AWS Cloud Financial Management" htmlUrl="https://aws.amazon.com/blogs/aws-cloud-financial-management/" xmlUrl="https://aws.amazon.com/blogs/aws-cloud-financial-management/feed"/>
+            <outline type="rss" text="IBM &amp; Red Hat on AWS" title="IBM &amp; Red Hat on AWS" htmlUrl="https://aws.amazon.com/blogs/aws-cloud-financial-management/" xmlUrl="https://aws.amazon.com/blogs/aws-cloud-financial-management/feed"/>
+            <outline type="rss" text="Migration &amp; Modernization" title="Migration &amp; Modernization" htmlUrl="https://aws.amazon.com/blogs/migration-and-modernization/" xmlUrl="https://aws.amazon.com/blogs/migration-and-modernization/feed"/>
+            <outline type="rss" text=".NET on AWS Blog" title=".NET on AWS Blog" htmlUrl="https://aws.amazon.com/blogs/dotnet/" xmlUrl="https://aws.amazon.com/blogs/dotnet/feed"/>
+            <outline type="rss" text="AWS Spatial Computing Blog" title="AWS Spatial Computing Blog" htmlUrl="https://aws.amazon.com/blogs/spatial/" xmlUrl="https://aws.amazon.com/blogs/spatial/feed"/>
+            <outline type="rss" text="AWS Storage Blog" title="AWS Storage Blog" htmlUrl="https://aws.amazon.com/blogs/storage/" xmlUrl="https://aws.amazon.com/blogs/storage/feed"/>
+            <outline type="rss" text="Amazon Supply Chain and Logistics" title="Amazon Supply Chain and Logistics" htmlUrl="https://aws.amazon.com/blogs/supply-chain/" xmlUrl="https://aws.amazon.com/blogs/supply-chain/feed"/>
+
         </outline>
         <outline text="AWS Youtube Channel" title="AWS Youtube Channel">
             <outline type="rss" text="AWS" title="AWS" htmlUrl="https://www.youtube.com/user/AmazonWebServices" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=AmazonWebServices" />
